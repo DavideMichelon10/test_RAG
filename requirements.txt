@@ -3,3 +3,8 @@ dotenv
 openai
 chromadb
 pypdf
+langchain
+sentence-transformers
+pandas
+umap-learn
+matplotlib
